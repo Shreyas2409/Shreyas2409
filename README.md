@@ -2,7 +2,9 @@
 <h1 align="center">A Software Engineer from India who can build Web apps and AI web applications using JavaScript, Python,Java and C </h1>
 <!--**Shreyas2409/Shreyas2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 -I'm intersted in learning Data Science and Android application development.
+
 -All my projects are available on https://github.com/Shreyas2409
+
 -📫 How to reach me: shreyashc123@gmail.com
 
 
