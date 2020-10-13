@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shreyas H C
 <h3 align="center">A passionate Software Engineer from India who can build Web apps and AI systems applications using JavaScript, Python,Java and C </h3>
 <!--
-**Shreyas2409/Shreyas2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shreyas2409/Shreyas2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
