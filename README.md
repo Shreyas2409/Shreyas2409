@@ -5,7 +5,8 @@
 -All my projects are available on https://github.com/Shreyas2409
 
 -📫 How to reach me: shreyashc123@gmail.com
--Website :shreyas2409.github.io
+
+-Website :https://shreyas2409.github.io
 
 
 
