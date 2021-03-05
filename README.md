@@ -8,8 +8,11 @@
 -📫 How to reach me: shreyashc123@gmail.com
 
 -Website :https://shreyas2409.github.io
+
 -Programming Languages : C,Java,Python,Javascript,C# and PHP.
+
 -Tools and Technologies :React.js,Express.js,Tensorflow,keras,onnx,Flask and Docker.
+
 -Databases:MySQL and MongoDB.
 
 
