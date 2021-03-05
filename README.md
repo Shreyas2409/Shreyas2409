@@ -9,9 +9,9 @@
 
 -Website :https://shreyas2409.github.io
 
--Programming Languages : C,Java,Python,Javascript,C# and PHP.
+-Programming Languages : C, Java, Python, Javascript, C# and PHP.
 
--Tools and Technologies :React.js,Express.js,Tensorflow,keras,onnx,Flask and Docker.
+-Tools and Technologies :React.js, Express.js, Tensorflow, Keras, Onnx, Flask, Django and Docker.
 
 -Databases:MySQL and MongoDB.
 
