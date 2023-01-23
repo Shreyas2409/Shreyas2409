@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Shreyas Hosadurga Chandra Shekhar
 <h1 align="center">A Software Engineer from India who can build Web apps and AI web applications using JavaScript, Python and Java.  </h1>
 <!--**Shreyas2409/Shreyas2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shreyas2409" alt="Shreyas2409" /> </p>
+
 
 -All my projects are available on https://github.com/Shreyas2409
 
