@@ -7,7 +7,6 @@
 
 -📫 How to reach me: shreyashc123@gmail.com
 
--Website :https://shreyas2409.github.io
 
 -Programming Languages : Java, Python and Javascript.
 
