@@ -12,7 +12,7 @@
 
 -Tools and Technologies :React.js, Express.js, Tensorflow, Keras, Onnx, Flask and Docker.
 
--Databases:MySQL,Postgre,MongoDB and Firbase.
+-Databases: MySQL,Postgre, MongoDB and Firebase.
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas2409&layout=compact&langs_count=15&theme=dark">
