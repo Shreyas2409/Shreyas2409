@@ -10,9 +10,9 @@
 
 -Programming Languages : Java, Python and Javascript.
 
--Tools and Technologies :React.js, Express.js, Tensorflow, Keras, Onnx, Flask, Django and Docker.
+-Tools and Technologies :React.js, Express.js, Tensorflow, Keras, Onnx, Flask and Docker.
 
--Databases:MySQL and MongoDB.
+-Databases:MySQL,Postgre,MongoDB and Firbase.
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas2409&layout=compact&langs_count=15&theme=dark">
