@@ -8,15 +8,13 @@
 -📫 How to reach me: shreyashc123@gmail.com
 
 
--Programming Languages : Java, Python and Javascript.
-
--Tools and Technologies :React.js, Express.js, Tensorflow, Keras, Onnx, Flask and Docker.
-
--Databases: MySQL,Postgre, MongoDB and Firebase.
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas2409&layout=compact&langs_count=15&theme=dark">
-
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 
 <p align="center">
 <a href="https://dev.to/shreyas2409" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/shreyas2409" height="30" width="30" /></a>
