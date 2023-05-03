@@ -29,7 +29,7 @@
 <img  style="margin-right:10px" target="_blank" alt="git"  width="36" height="36" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/git-logo-minimal.png?raw=true" />
 <img  style="margin-right:10px" target="_blank" alt="Firebase" width="36" height="36" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/firebase-logo.png?raw=true" />
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,heroku" />
+    <img src="https://skillicons.dev/icons?i=docker,heroku,vercel,netlify" />
   </a>
 </p>
 
