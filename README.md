@@ -13,7 +13,7 @@
   
  ## Skills
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,python,java,html,css,react,nodejs,express,flask,mysql,mongodb,postgre,firebase,git,docker,heroku,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=javascript,python,java,html,css,react,nodejs,express,flask,mysql,mongodb,postgres,firebase,git,docker,heroku,vercel,netlify" />
   </a>
 
 
