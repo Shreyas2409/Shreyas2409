@@ -16,7 +16,10 @@
     <img src="https://skillicons.dev/icons?i=javascript,python,java,go,c,html,css,react,flutter,nodejs,express,flask,mysql,mongodb,postgres,firebase,cassandra,git,docker,kubernetes,aws,heroku,vercel,netlify,rabbitmq" />
   </a>
 
-
+## Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas2409&layout=compact&langs_count=15&theme=dark">
+<p align="left">
 
 
 
