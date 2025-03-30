@@ -17,10 +17,7 @@
   </a>
 
 
-## Stats
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas2409&layout=compact&langs_count=15&theme=dark">
-<p align="left">
+
 
 
 <a href="http://www.github.com/Shreyas2409"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas2409&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
