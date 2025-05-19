@@ -12,7 +12,7 @@
 - ☁️ Experienced in containerization and cloud technologies (Docker, Kubernetes, AWS)
 - 📊 Worked with diverse databases, including SQL and NoSQL solutions
 - 🌐 All my projects are available on [GitHub](https://github.com/Shreyas2409)
-- 📫 How to reach me: [shreyashc123@gmail.com](mailto:shreyashc123@gmail.com)
+- 📫 How to reach me: [shreyashc123@gmail.com](mailto:shreyashosadurga@gmail.com)
 
 ## 🛠️ Tech Stack
 
