@@ -79,6 +79,9 @@
   <a href="https://www.linkedin.com/in/shreyashosadurga" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://leetcode.com/shreyas2409" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode">
+  </a>
   <a href="https://dev.to/shreyas2409" target="_blank">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev-dot-to&logoColor=white" alt="Dev.to">
   </a>
