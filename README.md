@@ -8,7 +8,7 @@
 
 ## 🧰 About Me
 
-- 🚀 Software Engineer (Santa Clara, CA · Remote)
+- 🚀 Software Engineer based in Santa Clara, CA
 - 🎓 M.S. in Computer Science, Santa Clara University
 - 🧪 ISTQB Foundation Level Certified
 - 🧠 I sit at the intersection of **backend reliability**, **LLM/AI systems engineering**, and **cloud infrastructure**
