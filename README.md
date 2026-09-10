@@ -8,7 +8,7 @@
 
 ## 🧰 About Me
 
-- 🚀 Software Engineer based in Santa Clara, CA
+- 🚀 Software Engineer, Santa Clara, CA 
 - 🎓 M.S. in Computer Science, Santa Clara University
 - 🧪 ISTQB Foundation Level Certified
 - 🧠 I sit at the intersection of **backend reliability**, **LLM/AI systems engineering**, and **cloud infrastructure**
@@ -21,8 +21,9 @@
 
 - Building agentic and RAG pipelines with **LangChain** and LLM APIs
 - Designing reliable, testable backend services with **FastAPI**, **SQLAlchemy**, and **Pydantic v2**
-- End-to-end automated testing and QA tooling with **Playwright**
-- Cloud-native deployment patterns on **AWS** and **Kubernetes**
+- End-to-end automated testing and QA tooling with **Playwright** and **pytest**
+- Cloud-native deployment patterns on **AWS**, **Kubernetes**, and edge/serverless platforms (**Netlify**, **Vercel**, **Firebase**)
+- Agentic dev workflows with **Claude Code**, LLM tool calling, and observability tooling
 
 ## 🛠️ Tech Stack
 
@@ -38,6 +39,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -55,6 +57,7 @@
   ### Testing & QA
 
   ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+  ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
   ![ISTQB](https://img.shields.io/badge/-ISTQB%20Certified-2E8B57?style=flat-square)
 
@@ -70,19 +73,19 @@
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
+  ### AI Tooling & Observability
+
+  ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+  ![Tool Calling](https://img.shields.io/badge/-Tool%20Calling-4B5563?style=flat-square)
+  ![Observability](https://img.shields.io/badge/-Observability-4B5563?style=flat-square)
+
 </div>
-
-## 💼 Experience Snapshot
-
-| Role | Company | Timeline |
-|---|---|---|
-| Software Engineer | Uplink Works (Remote) | Aug 2026 – Present |
-| Lead Developer, LLM K-8 Biology AI Tutor | Frugal Innovation Hub, SCU | Jan 2025 – Jul 2026 |
-| Software Engineer | Tata Consultancy Services | Mar 2021 – Jan 2023 |
-| Intern | Grid R&D | Jan 2021 – Mar 2021 |
 
 ## 📊 GitHub Stats
 
